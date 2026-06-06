@@ -2,7 +2,8 @@
 
 Este proyecto es una herramienta automatizada de **Web Scraping y Visualización de Datos** diseñada para monitorear, extraer y comparar los planes y tarifas de los cuatro principales operadores de telecomunicaciones en el Perú: **Claro, Movistar, Entel y Bitel**.
 
-![alt text](image.png)
+<img width="1863" height="1039" alt="Captura desde 2026-06-06 01-38-13" src="https://github.com/user-attachments/assets/1dccb23b-371a-44bf-a9c1-cfef8bac2062" />
+
 
 ##  Características Principales
 
